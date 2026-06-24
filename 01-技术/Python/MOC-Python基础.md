@@ -2,17 +2,18 @@
 aliases: [Python基础, Python入门]
 tags: [MOC, Python, 技术]
 created: 2026-06-25 01:12
-updated: 2026-06-25 01:51
+updated: 2026-06-25 01:53
 source: Python编程：从入门到实践
 ---
 
 # 🐍 Python 基础知识索引
 
 > *基于《Python编程：从入门到实践》整理*
+> *共 27 个原子知识点*
 
 ## 第1章 起步
-- [[Python环境搭建]] — 安装 Python 和编辑器
-- [[Hello World]] — 第一个程序
+- [[Python环境搭建]] ✅ — 安装 Python 和编辑器
+- [[Hello World]] ✅ — 第一个程序
 
 ## 第2章 变量和简单数据类型
 - [[变量]] ✅ — 存储数据的容器
