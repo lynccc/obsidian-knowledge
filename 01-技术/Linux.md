@@ -1,7 +1,7 @@
 ---
 aliases: [linux, 系统, 服务器]
 tags: [技术, Linux, 系统, 运维]
-created: 2026-06-24
+created: 2026-06-24 15:27
 source: 奶茶一号整理
 related: [[Docker]], [[服务器运维]]
 ---
