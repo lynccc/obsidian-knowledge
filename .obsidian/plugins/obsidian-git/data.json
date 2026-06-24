@@ -1,0 +1,12 @@
+{
+  "autoSaveInterval": 600,
+  "autoPullInterval": 600,
+  "autoPullOnBoot": true,
+  "autoCommitMessage": "vault backup: {{date}}",
+  "autoCommitAfterFileChange": true,
+  "autoPullAfterFileChange": false,
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "syncMethod": "merge",
+  "pullBeforePush": true
+}
