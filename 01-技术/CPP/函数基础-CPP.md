@@ -95,3 +95,7 @@ void get_min_max(int arr[], int n, int& min_val, int& max_val) {
 ---
 
 *由奶茶一号整理 🧋*
+
+## 📚 参考
+- 基于 C++ 内训知识
+  补充：[[CPP环境搭建]] / [[编译与链接]]
